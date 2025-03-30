@@ -28,7 +28,9 @@
 
 <!-- Snake Game Repo View -->
 
-![logo](https://github.com/Ritu84/Ritu84-/blob/main/snake%20gif.gif)
+![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/github-contribution-grid-snake.svg)
+
+
 
 # 📊 GitHub Stats:
 
