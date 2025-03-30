@@ -1,5 +1,12 @@
-# 💫 About Me:
-🚀 **I’m currently working on:** Building AI-powered applications and deploying ML models.<br>🔍 **Open toc ollaborations:** ML, Deep learning & NLP .<br>🌱 **I’m currently learning:** Multimodal AI, advanced NLP, and deep learning architectures.<br>💡 **Ask me about:** Machine Learning, Python, Data Science, and AI deployment.<br>⚡ **Fun fact:** I can turn raw data into valuable insights faster than you can say "Backpropagation"! 😎<br>
+# 💫 Hi 👋, I'm Imran Alam
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+
+
+🚀 **I’m currently working on:** Building AI-powered applications and deploying ML models.<br>
+🔍 **Open toc ollaborations:** ML, Deep learning & NLP .<br>
+🌱 **I’m currently learning:** Multimodal AI, advanced NLP, and deep learning architectures.<br>
+💡 **Ask me about:** Machine Learning, Python, Data Science, and AI deployment.<br>
+⚡ **Fun fact:** I can turn raw data into valuable insights faster than you can say "Backpropagation"! 😎<br>
 
 ###
 
