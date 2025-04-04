@@ -5,7 +5,7 @@
 
 🚀 **I’m currently working on:** Building AI-powered applications and deploying ML models.<br>
 
-🔍 **Open toc ollaborations:** ML, Deep learning & NLP.<br>
+🔍 **Open to collaborations:** ML, Deep learning & NLP.<br>
 
 🌱 **I’m currently learning:** Multimodal AI, advanced NLP, and deep learning architectures.<br>
 
