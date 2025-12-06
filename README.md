@@ -20,10 +20,8 @@
 ---
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat-square&logo=google-chrome&logoColor=white)](https://tarkptel.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tark-patel)
 [![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tark01)
 
 ---
 
