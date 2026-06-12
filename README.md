@@ -3,7 +3,7 @@
 <br>  
 <br>  
 
-🚀 **I’m currently working on:** Building Physical AI systems, deploying LLM applications on local devices, and developing production-ready AI solutions..<br>
+🚀 **I’m currently working on:** Physical AI, local LLM deployment, and production-ready AI solutions.<br>
 
 🔍 **Open to collaborations:** LLMs, AI Agents, RAG Systems, MLOps, Machine Learning, and Deep Learning projects.<br>
 
