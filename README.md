@@ -3,15 +3,15 @@
 <br>  
 <br>  
 
-🚀 **I’m currently working on:** Building AI-powered applications and deploying ML models.<br>
+🚀 **I’m currently working on:** Building Physical AI systems, deploying LLM applications on local devices, and developing production-ready AI solutions..<br>
 
-🔍 **Open to collaborations:** ML, Deep learning & NLP.<br>
+🔍 **Open to collaborations:** LLMs, AI Agents, RAG Systems, MLOps, Machine Learning, and Deep Learning projects.<br>
 
-🌱 **I’m currently learning:** Multimodal AI, advanced NLP, and deep learning architectures.<br>
+🌱 **I’m currently learning:** Currently exploring: Multimodal AI, Agentic AI, advanced LLM architectures, and scalable AI systems.<br>
 
-💡 **Ask me about:** Machine Learning, Python, Data Science, and AI deployment.<br>
+💡 **Ask me about:** Machine Learning, Deep Learning, LLMs, MLOps, RAG, LangChain, and AI deployment.<br>
 
-⚡ **Fun fact:** I can turn raw data into valuable insights faster than you can say "Backpropagation"! 😎<br>
+⚡ **Fun fact:** From MSc Chemistry to AI/ML Engineer — proving that curiosity can be a powerful career accelerator! 😎<br>
 
 ###
 
