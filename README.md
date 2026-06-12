@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tark Patel</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast </h3>
+<h3 align="center">A passionate AI Engineer </h3>
 <br>  
 <br>  
 
