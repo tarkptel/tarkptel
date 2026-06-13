@@ -18,7 +18,7 @@
 <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif">
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat-square&logo=google-chrome&logoColor=white)](https://tarkptel.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat-square&logo=google-chrome&logoColor=white)](https://pateltark.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tark-patel)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tark01)
 
