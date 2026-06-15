@@ -14,8 +14,10 @@
 ⚡ **Fun fact:** From MSc Chemistry to AI/ML Engineer — proving that curiosity can be a powerful career accelerator! 😎<br>
 
 ###
-
+<div align="center">
 <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif">
+</div>
+
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat-square&logo=google-chrome&logoColor=white)](https://pateltark.github.io/)
@@ -35,17 +37,22 @@
 
 
 
-# 📊 GitHub Stats:
 
+## 📊 GitHub Stats
 
-<div align="center" >
-<a  href="https://github.com/SP-XD">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+![Tark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pateltark&show_icons=true&theme=nord&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pateltark&layout=compact&theme=nord&hide_border=true)
 
-</a>
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pateltark&theme=nord&hide_border=true)
+
+</div>
+
 
 
 ## Code Cycle
